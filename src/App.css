@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Great+Vibes&family=Lato&family=Poppins:wght@300&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto:wght@300;400&family=Satisfy&display=swap');
+
+body {
+    font-family: "Satisfy", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.shadow-neomorphic {
+    box-shadow: 8px 8px 16px #b3b9c5, -8px -8px 16px #ffffff; /* Adjust shadow colors and sizes */
+  }
+  
